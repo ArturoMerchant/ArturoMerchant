@@ -1,16 +1,18 @@
-## Hi there 👋
 
-<!--
-**ArturoMerchant/ArturoMerchant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Arturo Merchant
 
-Here are some ideas to get you started:
+I'm an Industrial and Systems Engineer turned Full Stack Developer. I specialize in backend development, but I'm also comfortable working on the frontend when needed.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+- Languages: JavaScript, TypeScript, Python
+- Frontend: HTML, CSS, React, Next.js
+- Backend: Node.js, Express, Nest.js
+- Databases: PostgreSQL, MongoDB
+- Tools: Notion, Jira
+
+## 📈 What I'm working on
+I'm currently looking for backend developer opportunities where I can grow and contribute to impactful projects.
+
+## 📫 How to reach me
+- LinkedIn: https://www.linkedin.com/in/arturo-merchant/(https://www.linkedin.com/in/arturo-merchant/)
+- Email: arturo.merchant.ortiz@gmail.com
