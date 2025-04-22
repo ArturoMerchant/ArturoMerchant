@@ -14,5 +14,5 @@ I'm an Industrial and Systems Engineer turned Full Stack Developer. I specialize
 I'm currently looking for backend developer opportunities where I can grow and contribute to impactful projects.
 
 ## 📫 How to reach me
-- LinkedIn: https://www.linkedin.com/in/arturo-merchant/(https://www.linkedin.com/in/arturo-merchant/)
+- LinkedIn: https://www.linkedin.com/in/arturo-merchant/
 - Email: arturo.merchant.ortiz@gmail.com
